@@ -9,4 +9,4 @@ The Excel files containig the schedule information is provided by Regia Transpor
 License
 ==========
 
-Everything found in this repo is licensed under an CC BY-SA 3.0 license. See the LICENSE file for specifics.
+Everything found in this repo is licensed under an MIT license. See the LICENSE file for specifics.
