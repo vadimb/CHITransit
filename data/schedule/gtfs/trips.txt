@@ -1,0 +1,115 @@
+route_id,service_id,direction_id,trip_headsign,trip_id,block_id,wheelchair_accessible
+1,1,0,Str. Sarmizegetusa,1,1,1
+1,2,0,Str. Sarmizegetusa,2,1,1
+1,3,0,Str. Sarmizegetusa,3,1,1
+1,1,1,Str. Bariera Sculeni,4,1,1
+1,2,1,Str. Bariera Sculeni,5,1,1
+1,3,1,Str. Bariera Sculeni,6,1,1
+2,1,0,Str. A. Puşkin,7,2,1
+2,2,0,Str. A. Puşkin,8,2,1
+2,3,0,Str. A. Puşkin,9,2,1
+2,1,1,Bd. Traian,10,2,1
+2,2,1,Bd. Traian,11,2,1
+2,3,1,Bd. Traian,12,2,1
+3,1,0,Str. Mioriţa,13,3,1
+3,2,0,Str. Mioriţa,14,3,1
+3,3,0,Str. Mioriţa,15,3,1
+3,1,1,Str. Alba-Iulia,16,3,1
+3,2,1,Str. Alba-Iulia,17,3,1
+3,3,1,Str. Alba-Iulia,18,3,1
+4,1,0,Str. V. Belinski,19,4,1
+4,2,0,Str. V. Belinski,20,4,1
+4,3,0,Str. V. Belinski,21,4,1
+4,1,1,Bd. Dacia,22,4,1
+4,2,1,Bd. Dacia,23,4,1
+4,3,1,Bd. Dacia,24,4,1
+5,1,0,Parcul "La Izvor",25,5,1
+5,2,0,Parcul "La Izvor",26,5,1
+5,3,0,Parcul "La Izvor",27,5,1
+5,1,1,Parcul De Troleibuze Nr.2,28,5,1
+5,2,1,Parcul De Troleibuze Nr.2,29,5,1
+5,3,1,Parcul De Troleibuze Nr.2,30,5,1
+7,1,0,Str. 31 August 1989,37,7,1
+7,2,0,Str. 31 August 1989,38,7,1
+7,3,0,Str. 31 August 1989,39,7,1
+7,1,1,Str. Uzinelor,40,7,1
+7,2,1,Str. Uzinelor,41,7,1
+7,3,1,Str. Uzinelor,42,7,1
+8,1,0,Parcul "Alunelul",43,8,1
+8,2,0,Parcul "Alunelul",44,8,1
+8,3,0,Parcul "Alunelul",45,8,1
+8,1,1,Bd. Traian,46,8,1
+8,2,1,Bd. Traian,47,8,1
+8,3,1,Bd. Traian,48,8,1
+9,1,0,Gara Auto Nord,49,9,1
+9,2,0,Gara Auto Nord,50,9,1
+9,3,0,Gara Auto Nord,51,9,1
+9,1,1,Gara Auto Sud-Vest,52,9,1
+9,2,1,Gara Auto Sud-Vest,53,9,1
+9,3,1,Gara Auto Sud-Vest,54,9,1
+10,1,0,Str. Mioriţa,55,10,1
+10,2,0,Str. Mioriţa,56,10,1
+10,3,0,Str. Mioriţa,57,10,1
+10,1,1,Str. Studenților,58,10,1
+10,2,1,Str. Studenților,59,10,1
+10,3,1,Str. Studenților,60,10,1
+13,1,0,Str. V. Dokuceaev,73,13,1
+13,2,0,Str. V. Dokuceaev,74,13,1
+13,3,0,Str. V. Dokuceaev,75,13,1
+13,1,1,Bd. Mircea cel Bătrân,76,13,1
+13,2,1,Bd. Mircea cel Bătrân,77,13,1
+13,3,1,Bd. Mircea cel Bătrân,78,13,1
+17,1,0,Gara,97,17,1
+17,2,0,Gara,98,17,1
+17,3,0,Gara,99,17,1
+17,1,1,Gara Auto Sud-Vest,100,17,1
+17,2,1,Gara Auto Sud-Vest,101,17,1
+17,3,1,Gara Auto Sud-Vest,102,17,1
+20,1,0,Gara Auto Nord,115,20,1
+20,2,0,Gara Auto Nord,116,20,1
+20,3,0,Gara Auto Nord,117,20,1
+20,1,1,Parcul de troleibuze nr. 2,118,20,1
+20,2,1,Parcul de troleibuze nr. 2,119,20,1
+20,3,1,Parcul de troleibuze nr. 2,120,20,1
+21,1,0,Str. Alba-Iulia,121,21,1
+21,2,0,Str. Alba-Iulia,122,21,1
+21,3,0,Str. Alba-Iulia,123,21,1
+21,1,1,Str. Meşterul Manole,124,21,1
+21,2,1,Str. Meşterul Manole,125,21,1
+21,3,1,Str. Meşterul Manole,126,21,1
+22,1,0,Gara,127,22,1
+22,2,0,Gara,128,22,1
+22,3,0,Gara,129,22,1
+22,1,1,Str. Alba-Iulia,130,22,1
+22,2,1,Str. Alba-Iulia,131,22,1
+22,3,1,Str. Alba-Iulia,132,22,1
+23,1,0,Parcul "La izvor",133,23,1
+23,2,0,Parcul "La izvor",134,23,1
+23,3,0,Parcul "La izvor",135,23,1
+23,1,1,Bd. Mircea cel Bătrân,136,23,1
+23,2,1,Bd. Mircea cel Bătrân,137,23,1
+23,3,1,Bd. Mircea cel Bătrân,138,23,1
+24,1,0,Str. A. Mateevici,139,24,1
+24,2,0,Str. A. Mateevici,140,24,1
+24,3,0,Str. A. Mateevici,141,24,1
+24,1,1,Bd. Mircea cel Bătrân,142,24,1
+24,2,1,Bd. Mircea cel Bătrân,143,24,1
+24,3,1,Bd. Mircea cel Bătrân,144,24,1
+25,1,0,Str. 31 August 1989,145,25,1
+25,2,0,Str. 31 August 1989,146,25,1
+25,3,0,Str. 31 August 1989,147,25,1
+25,1,1,Str. Ceucari,148,25,1
+25,2,1,Str. Ceucari,149,25,1
+25,3,1,Str. Ceucari,150,25,1
+28,1,0,Or. Durlești,163,28,1
+28,2,0,Or. Durlești,164,28,1
+28,3,0,Or. Durlești,165,28,1
+28,1,1,Gara,166,28,1
+28,2,1,Gara,167,28,1
+28,3,1,Gara,168,28,1
+29,1,0,Grădina Publică "Ştefan cel Mare şi Sfînt",169,29,1
+29,2,0,Grădina Publică "Ştefan cel Mare şi Sfînt",170,29,1
+29,3,0,Grădina Publică "Ştefan cel Mare şi Sfînt",171,29,1
+29,1,1,Universitatea Agrară,172,29,1
+29,2,1,Universitatea Agrară,173,29,1
+29,3,1,Universitatea Agrară,174,29,1

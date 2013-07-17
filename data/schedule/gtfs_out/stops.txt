@@ -1,0 +1,316 @@
+stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding,zone_id
+1,SCHINOASA 2,46.985033,28.778205,1,1
+2,Gara Auto Sud-Vest,46.991779,28.78964,1,1
+3,Str. Sihastrului,46.99567,28.800615,1,1
+4,Str. Miorița,46.997104,28.808986,1,1
+5,Campusul Academic,46.993788,28.815014,1,1
+6,Colegiul Industrial si de Construcții,46.993107,28.820113,1,1
+7,Str. Vl.Korolenko,46.997998,28.820331,1,1
+8,Str. Gh.Asachi,47.001206,28.82208,1,1
+9,Str. Gh.Tudor,47.003668,28.824704,1,1
+10,Piața Pan Halipa,47.007441,28.828153,1,1
+11,Complexul Memorial "Eternitate",47.008371,28.832829,1,1
+12,Str. A.Mateevici,47.009372,28.836258,1,1
+13,Str. Bucureşti,47.01231,28.840659,1,1
+14,Bd. Ştefan cel Mare şi Sfînt,47.016904,28.847743,1,1
+15,Magazinul Universal Central,47.015384,28.846097,1,1
+16,Str. Tighina,47.01758,28.842873,1,1
+17,Str. Armenească,47.020417,28.838861,1,1
+18,Piata Marii Adunări Nationale,47.023131,28.834729,1,1
+19,Teatrul de Operă si Balet,47.026732,28.829361,1,1
+20,Universitatea Tehnică a Moldovei,47.031142,28.822751,1,1
+21,Universitatea de Medicină,47.034314,28.818001,1,1
+22,Calea Ieșilor,47.038195,28.809945,1,1
+23,Asociația "Zorile",47.03901,28.803407,1,1
+24,Str. Bariera Sculeni,47.04293,28.793862,1,1
+25,Parcul "La Izvor",47.044533,28.788416,1,1
+26,Str. Ghidighici,47.046114,28.783034,1,1
+27,Restaurantul "Butoias",47.046864,28.780612,1,1
+28,Str. Ghidighici,47.04544,28.785108,1,1
+29,Parcul "La Izvor",47.044339,28.788877,1,1
+30,Parcul "Alunelul",47.038135,28.805227,1,1
+31,Piaţa D. Cantemir,47.038028,28.810048,1,1
+32,Universitatea de Medicină,47.033451,28.819146,1,1
+33,Str. Toma Ciorbă,47.031553,28.822028,1,1
+34,Str. S. Lazo,47.028844,28.826045,1,1
+35,Cinematograful "Patria",47.026331,28.829809,1,1
+36,Teatrul "M. Eminescu",47.022266,28.83583,1,1
+37,Str. Armenească,47.019782,28.839559,1,1
+38,Magazinul Universal Central,47.016423,28.844595,1,1
+39,Bd. C. Negruzzi,47.013612,28.850209,1,1
+40,Str. Columna,47.027401,28.83377,1,1
+41,Grădina Publică "Ştefan cel Mare şi Sfînt",47.024438,28.829053,1,1
+42,Str. Bucureşti,47.022257,28.826021,1,1
+43,Universitatea de Stat,47.01839,28.823191,1,1
+44,Str. Anton Crihan,47.012993,28.827952,1,1
+45,Piaţa Pan Halippa,47.008442,28.82729,1,1
+46,Magazin "Fidesco",47.006416,28.824933,1,1
+47,Str. Gh. Tudor,47.005041,28.821406,1,1
+48,Str. V. Dokuceaev,47.002923,28.816822,1,1
+49,Telecentru,46.999046,28.808846,1,1
+50,Str. Pietrarilor,46.998291,28.806631,1,1
+51,Str. Sihastrului,46.996372,28.801492,1,1
+52,Str. Grenoble,46.991314,28.821264,1,1
+53,Policlinica Oncologică,46.989376,28.826675,1,1
+54,Spitalul Pentru Copii Nr.3,46.985773,28.831917,1,1
+55,Str. Costiujeni,46.981269,28.839516,1,1
+56,Bd. Traian,46.978606,28.846675,1,1
+57,Str. Independenţei,46.982139,28.851525,1,1
+58,Bd. Dacia,46.984316,28.854869,1,1
+59,Bd. Decebal,46.98759,28.857643,1,1
+60,Str. N. Zelinski,46.993747,28.859012,1,1
+61,Str. N. Titulescu,47.000795,28.860191,1,1
+62,Centrul "Hidrotehnica",47.007524,28.859991,1,1
+63,Gara,47.011037,28.858577,1,1
+64,Hotelul "Cosmos",47.013719,28.853968,1,1
+65,Universitatea Pedagogică,47.037095,28.811868,1,1
+66,Str. Șt. Neaga,47.032509,28.805493,1,1
+67,Cinematograful "Flacăra",47.028205,28.79626,1,1
+68,Piața Unirii Principatelor,47.027935,28.791078,1,1
+69,Str. I. Pelivan,47.029527,28.787767,1,1
+70,Str. Paris,47.032619,28.781634,1,1
+71,Str. O. Ghirbu,47.03568,28.775374,1,1
+72,Str. L. Deleanu,47.039325,28.767988,1,1
+73,ȘOS. Balcani,47.041679,28.763383,1,1
+74,ȘOS. Balcani,47.040954,28.764138,1,1
+75,Str. L. Deleanu,47.03818,28.770074,1,1
+76,Str. O. Ghirbu,47.035085,28.776392,1,1
+77,Str. Paris,47.031994,28.78265,1,1
+78,Piața Unirii Principatelor,47.028824,28.789009,1,1
+79,Cinematograful "Flacăra",47.028205,28.796323,1,1
+80,Str. Șt. Neaga,47.03238,28.805351,1,1
+81,Universitatea Pedagogică,47.037176,28.812163,1,1
+82,Piața Pan Halippa,47.00893,28.827852,1,1
+83,Str. M. Eminescu,47.015174,28.826832,1,1
+84,Str. M. Kogălniceanu,47.019047,28.827458,1,1
+85,Casa Presei,47.021326,28.830653,1,1
+86,Bd. Ştefan cel Mare şi Sfînt,47.024761,28.83525,1,1
+87,Str. Constituției,47.025636,28.792881,1,1
+88,Str. V. Lupu,47.02352,28.790952,1,1
+89,Policlinica Veterinară Republicană,47.024995,28.782118,1,1
+90,Uzina Experimentală,47.025585,28.779325,1,1
+91,Uzina "ASCHIM S.A",47.026734,28.773729,1,1
+92,Uzina "ASCHIM S.A",47.026762,28.773721,1,1
+93,Uzina Experimentală,47.025768,28.777888,1,1
+94,Policlinica Veterinară Republicană,47.024793,28.782456,1,1
+95,Str. V. Lupu,47.023475,28.789957,1,1
+96,Str. Constituției,47.024445,28.792634,1,1
+97,Bd. Decebal,46.987121,28.856229,1,1
+98,Str. Teilor,46.989553,28.852782,1,1
+99,Str. N. Zelinski,46.992433,28.848753,1,1
+100,Spitalul Municipal Nr.1,47.004755,28.841995,1,1
+101,Str. Ciuflea,47.012514,28.845983,1,1
+102,Bd. Grigore Vieru,47.028815,28.838844,1,1
+103,Str. Romană,47.032616,28.844409,1,1
+104,Circul,47.035999,28.849198,1,1
+105,Str. Kiev,47.040235,28.859826,1,1
+106,Bd. Moscova,47.045693,28.862015,1,1
+107,Str. M. Costin,47.050143,28.863711,1,1
+108,Str. M. Basarab,47.055535,28.865781,1,1
+109,Str. Studenților,47.058623,28.86757,1,1
+110,Str. M. Basarab,47.054822,28.86519,1,1
+111,Str. M. Costin,47.049101,28.863066,1,1
+112,Str. Bogdan Voievod,47.043166,28.860798,1,1
+113,Str. Kiev,47.03974,28.859413,1,1
+114,Circul,47.036547,28.849823,1,1
+115,Str. Romană,47.032012,28.842953,1,1
+116,str. Cosmonauților,47.029498,28.839109,1,1
+117,Universitatea de Medicină,47.034138,28.819133,1,1
+118,Str. Columna,47.036291,28.82255,1,1
+119,Str. Albișoara,47.038312,28.825723,1,1
+120,Str. Petricani 86,47.044873,28.831672,1,1
+121,Baza Transport Auto Nr. 31,47.048305,28.825897,1,1
+122,Str. Mircești,47.050774,28.821303,1,1
+123,Substația Nr. 55,47.05546,28.815852,1,1
+124,Universitatea Agrară,47.060782,28.809654,1,1
+125,Substația Nr. 55,47.05517,28.81612,1,1
+126,Str. Petricani,47.049454,28.823114,1,1
+127,Baza Transport Auto Nr. 31,47.047771,28.826579,1,1
+128,Str. M. Viteazul,47.044361,28.832338,1,1
+129,Centrul Comercial "Supraten",47.042733,28.835457,1,1
+131,Bd. Renașterii Naționale,47.044553,28.847969,1,1
+132,Str. N. Iorga,47.023662,28.825199,1,1
+133,Str. S. Lazo,47.026905,28.820284,1,1
+134,Gara,47.011688,28.857347,1,1
+135,Bd. Decebal,47.008342,28.859968,1,1
+136,Str. N. Titulescu,46.999969,28.859779,1,1
+137,Piața Decebal,46.996876,28.859479,1,1
+138,Str. N. Zelinski,46.991911,28.858733,1,1
+139,Str. Brîncuși,46.989183,28.858056,1,1
+140,Bd. Traian,46.985407,28.856223,1,1
+141,Str. Independenței,46.981343,28.849972,1,1
+142,str. Grenoble,46.97884,28.8454,1,1
+143,Str. Costiujeni,46.982771,28.836868,1,1
+144,Spitalul Pentru Copii Nr. 3,46.986185,28.831743,1,1
+145,Policlinica Oncologică,46.989976,28.825609,1,1
+146,Str. Mioriț,46.992531,28.818501,1,1
+147,Campusul Academic,46.99491,28.812789,1,1
+148,Bd. Traian,46.982102,28.850185,1,1
+149,Str. Teilor,46.983846,28.847585,1,1
+150,Str. Hristo Botev,46.987055,28.84478,1,1
+151,Colegiul de Muzică "Ștefan Neaga",46.989147,28.845223,1,1
+152,Bd. Dacia,46.992433,28.845887,1,1
+153,Str. Trandafirilor,46.996056,28.846512,1,1
+154,Parcul "Valea Trandafirilor",46.998669,28.851574,1,1
+155,Bd. Decebal,46.998201,28.857848,1,1
+156,Str. N. Zelinski,46.992754,28.859583,1,1
+157,Str. Sarmizegetusa,46.993274,28.865114,1,1
+158,Str. Minsk,46.996838,28.861584,1,1
+159,Str. A. Hajdeu,47.020416,28.852941,1,1
+160,Asociția "Piele",47.022414,28.859165,1,1
+161,Gara Auto Nord,47.023246,28.864072,1,1
+162,Asociția "Piele",47.022807,28.860144,1,1
+163,Bd. D. Cantemir,47.019082,28.850296,1,1
+164,Bd. Ştefan cel Mare şi Sfînt,47.016421,28.84616,1,1
+165,Str. Bucureşti,47.012402,28.840599,1,1
+166,Str. M. Kogălniceanu,47.010361,28.837725,1,1
+167,Complexul Memorial "Eternitate",47.008754,28.833744,1,1
+168,Piața Pan Halipa,47.00808,28.830337,1,1
+169,Gara Auto Sud-Vest,46.99249,28.790992,1,1
+170,Str. Valea Rădiului,46.987645,28.780736,1,1
+171,SCHINOASA 2,46.985182,28.777834,1,1
+172,Str. 31 August 1989,47.022486,28.829493,1,1
+173,Str. V. Belinski,47.029585,28.801807,1,1
+174,Str. P. Ceaikovski,47.025223,28.802897,1,1
+175,Str. V. Lupu,47.021967,28.804886,1,1
+176,Str. E. Coca,47.022234,28.809835,1,1
+177,Parcul "Valea Morilor",47.02339,28.817828,1,1
+178,Str. C. Stere,47.0248,28.816061,1,1
+179,Str. E. Coca,47.02228,28.808657,1,1
+180,Str. V. Belinski,47.022385,28.803783,1,1
+181,Str. P. Ceaikovski,47.027034,28.802741,1,1
+182,Str. I. Creangă,47.029819,28.801901,1,1
+183,Str. A. Pușkin,47.021377,28.828662,1,1
+184,Str. N. Dimo,47.043547,28.866225,1,1
+185,Str. Bogdan Voievod,47.044091,28.859698,1,1
+186,Str. Florilor,47.043581,28.85243,1,1
+187,Calea Orheiului,47.044828,28.847737,1,1
+188,Gara Visterniceni,47.041455,28.841732,1,1
+189,Centrul Comercial "Supraten",47.043101,28.834958,1,1
+190,Str. Albișoara,47.038256,28.825335,1,1
+191,Asociația "Tracom",47.036956,28.820294,1,1
+192,Str. Mitropolitul Dosoftei,47.038029,28.815862,1,1
+193,Str. Ciuflea,47.013516,28.847197,1,1
+194,Piața Ovidiu,47.010825,28.84311,1,1
+195,Spitalul Municipal Nr. 1,47.005387,28.841904,1,1
+196,Str. Hristo Botev,46.993169,28.847183,1,1
+197,Str. Teilor,46.988318,28.854257,1,1
+198,Bd. Decebal,46.985461,28.857977,1,1
+199,Bd. Cuza Vodă,46.98241,28.862355,1,1
+200,Str. Burebista,46.979218,28.867018,1,1
+201,Str. Valea Crucii,46.976875,28.870652,1,1
+202,Grădina Botanică,46.975473,28.874981,1,1
+203,Str. Valea Crucii,46.977492,28.870368,1,1
+204,Str. Burebista,46.979023,28.867579,1,1
+205,Bd. Cuza Vodă,46.983372,28.861435,1,1
+206,Str. N. Zelinski,46.992852,28.858328,1,1
+207,Magazinul "Busuioc",46.993278,28.852179,1,1
+208,Bd. Dacia,46.993662,28.847754,1,1
+209,Colegiul de Muzică "Ștefan Neaga",46.989943,28.845361,1,1
+210,Str. Independenței,46.9856,28.845266,1,1
+211,Str. Teilor,46.983368,28.848321,1,1
+212,Bd. Traian,46.98123,28.85146,1,1
+213,Bd. Cuza Vodă,46.977834,28.85608,1,1
+214,Supermarket "Cvin",46.977228,28.859218,1,1
+215,Centrul Comercial "Arizona",46.97797,28.86438,1,1
+216,Centrul Comercial "Arizona",46.978114,28.863541,1,1
+217,Supermarket "Cvin",46.977287,28.858438,1,1
+218,Bd. Cuza Vodă,46.97881,28.854646,1,1
+219,Șos. Muncești,47.009636,28.861288,1,1
+220,Str. Dimineții,47.005009,28.867504,1,1
+221,Str. Pandurilor,46.99949,28.872598,1,1
+222,Str. Căușeni,46.997213,28.875271,1,1
+223,Str. Tomis,46.993273,28.880026,1,1
+224,Asociația "Carmez",46.990161,28.884071,1,1
+225,Parcul De Troleibuze Nr. 2,46.988661,28.886271,1,1
+226,Asociația "Carmez",46.991738,28.882772,1,1
+227,Str. Căușeni,46.996712,28.876023,1,1
+228,Str. Pandurilor,46.999238,28.87317,1,1
+229,Str. Dimineții,47.005614,28.867175,1,1
+230,Uzina "Etalon",46.985432,28.881814,1,1
+231,Asociația "Franzeluța",46.983429,28.877854,1,1
+232,Colegiul De Transport,46.986885,28.873127,1,1
+233,Uzina "Giuvaier",46.990741,28.86773,1,1
+234,Str. Bariera Sculeni,47.042326,28.79494,1,1
+235,Asociația "Tutun CTC",47.022378,28.867183,1,1
+236,Asociația "Cerealiere",47.019036,28.869773,1,1
+237,Centrul Comercial "Preges",47.014811,28.87356,1,1
+238,Centrul Comercial "Keramin",47.011883,28.876403,1,1
+239,Asociația "Agromașina",47.009647,28.878581,1,1
+240,Asociația "Beton Armat",47.005493,28.885926,1,1
+241,Școala Pe Schimburi Nr. 3,47.002792,28.889526,1,1
+242,Asociația "Vitanta",46.999005,28.895397,1,1
+243,Str. Movileni,47.002515,28.895658,1,1
+245,Str. Otovasca,47.007982,28.892339,1,1
+246,Str. Meșterul Manole,47.012664,28.887447,1,1
+247,Asociația "Moldovahidromaș",47.016848,28.887871,1,1
+248,Asociația "Alimentarmaș",47.020723,28.888244,1,1
+249,Parcul de Troleibuze Nr. 3,47.024642,28.888795,1,1
+250,Termocentrala Nr. 2,47.027881,28.889115,1,1
+251,Str. Vadul lui Vodă,47.032702,28.889648,1,1
+252,Bd. Mircea cel Bătrîn,47.037419,28.889928,1,1
+253,Pretura Sectorului Ciocana,47.040707,28.890336,1,1
+254,Str. P. Zadnipru,47.043745,28.890694,1,1
+255,Judecătoria Sectorului Ciocana,47.047254,28.890912,1,1
+256,Str. I. Vieru,47.051637,28.890895,1,1
+257,Str. Ion Dumeniuk,47.056976,28.89168,1,1
+258,Str. Ion Dumeniuk,47.056152,28.890808,1,1
+259,Str. I. Vieru,47.050496,28.890072,1,1
+260,Judecătoria Sectorului Ciocana,47.046202,28.890094,1,1
+261,Str. P. Zadnipru,47.043156,28.889863,1,1
+262,Str. A. Russo,47.037831,28.889321,1,1
+263,Str. Vadul lui Vodă,47.032504,28.888691,1,1
+264,Parcul de Troleibuze Nr.3,47.02484,28.887851,1,1
+265,Asociația "Alimentarmaș",47.020103,28.887308,1,1
+266,Uzina Experimentală (Inteh S.A.),47.015357,28.88679,1,1
+267,Asociaţia "Introscop",47.012962,28.886485,1,1
+268,Str. Voluntarilor,47.011488,28.888167,1,1
+269,Str. Otavasca,47.00709,28.893231,1,1
+270,Str. Movileni,47.002067,28.895875,1,1
+271,Asociaţia "Vitanta",46.998483,28.896409,1,1
+272,Şcoala pe Schimburi Nr.3,47.002434,28.890363,1,1
+273,Asociaţia "Beton Armat",47.005444,28.886512,1,1
+274,Asociația "Agromașina",47.008664,28.880205,1,1
+275,Centrul Comercial "Keramin",47.011491,28.876976,1,1
+276,Centrul Comercial "Preges",47.012125,28.876382,1,1
+277,Asociația "Cerealiere",47.014813,28.87376,1,1
+278,Asociația "Tutun-CTC",47.020266,28.869066,1,1
+279,Str. T. Vladimirescu,47.038702,28.857955,1,1
+280,Str. D. Rîșcanu,47.035603,28.861803,1,1
+281,Stradela Florării,47.031135,28.863366,1,1
+283,Stradela Florării,47.030923,28.863605,1,1
+284,Str. D. Rîșcanu,47.035448,28.862036,1,1
+285,Str. Kiev,47.03857,28.85837,1,1
+286,Str. V. Dokuceav,47.00245,28.818388,1,1
+287,Str. A. Russo,47.04407,28.862867,1,1
+288,Str. N. Dimo,47.043206,28.867529,1,1
+289,Str. M. Sadoveanu,47.037915,28.88491,1,1
+290,Str. A. Russo,47.037187,28.887388,1,1
+291,Str. M. Sadoveanu,47.038342,28.884519,1,1
+293,Str. Calea Orheiului,47.046186,28.848752,1,1
+294,Str. Vasile Badiu,47.051791,28.850696,1,1
+295,Str. Ceucari,47.055081,28.849501,1,1
+296,Str. Iazului,47.058183,28.847507,1,1
+297,Str. Socoleni,47.062174,28.845772,1,1
+298,Liceul "Gheorghe Călinescu",47.065321,28.844418,1,1
+299,Liceul "Gheorghe Călinescu",47.065329,28.843998,1,1
+300,Str. Socoleni,47.061276,28.846137,1,1
+301,Str. Iazului,47.057518,28.848048,1,1
+302,Calea Orheiului,47.054321,28.850107,1,1
+303,Str. Vasile Badiu,47.050953,28.850222,1,1
+304,Bd. Renașterii Naționale,47.046442,28.848626,1,1
+305,Str. Bogdan Voievod,47.043214,28.856072,1,1
+306,Hotelul "Cosmos",47.014717,28.855205,1,1
+307,Bd. D. Cantemir,47.017217,28.854046,1,1
+308,Bd. D. Cantemir,47.018971,28.851618,1,1
+309,Hotelul "Cosmos",47.014373,28.854979,1,1
+310,Str. Meșterul Manole,47.03666518,28.88807237,1,1
+311,Gara Visterniceni,47.040987,28.842659,1,1
+313,Str. Ialoveni,46.994493,28.796571,1,1
+314,str. Mitropolia,47.027429,28.81749,1,1
+315,Str. Cornului,47.022145,28.799661,1,1
+316,Str. Gh. Codreanu,47.02277,28.796352,1,1
+317,str. Ismail,47.012117,28.842326,1,1
+318,Str. C. Stere,47.025688,28.817693,1,1
+319,Str. Vasile Harea,47.056877,28.813818,1,1
+320,Str. V. Belinski,47.021889,28.803083,1,1
